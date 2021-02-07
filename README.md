@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Bienvenidos a mi primer proyecto react-php
+para su correcto  funcionamiento deben instalar xammp y en la carpeta htpdocs copiar el contenido de la carpeta phpcode ya que es su localhost, tambien deben abrir el gerstor de bases de  datos y ejeciutar el archivo backup dbblog.sql don de esta la base de datos y sus respectivas tablas y de esta forma el pryecto queda listo para funcionar 
+gracias de antemano y estoy atento a cualquier recomendacion. Afirmo mi diponibilidad y ganas de aprender y hacer parte de su equipo de trabajo.
 
 In the project directory, you can run:
 
